@@ -1,2 +1,3 @@
-'This was change made by person 1'
-'This was change made by person 2'
+'This was change made by person 1'.
+'This was change made by person 2'.
+'This was change made by person 2'.
